@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     color: #333;
 }
 
@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     background-color: #0044cc;
 }
 
@@ -44,7 +44,7 @@ body {
     background-size: cover;
     color: black;
     text-align: center;
-    padding: 100px 20px;
+    padding: 30px 5px;
 }
 
 .banner h1 {
@@ -60,7 +60,7 @@ body {
 .cta-button {
     background-color: #0044cc;
     color: white;
-    padding: 10px 20px;
+    padding: 10px 5px;
     text-decoration: none;
     font-size: 1.2em;
     border-radius: 5px;
@@ -69,7 +69,7 @@ body {
 .featured-services {
     padding: 40px 20px;
     text-align: center;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .featured-services h2 {
@@ -84,10 +84,10 @@ body {
 }
 
 .service-item {
-    width: 30%;
-    background-color: #f9f9f9;
+    width: 60%;
+    background-color: #ffffff;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -109,7 +109,7 @@ body {
     text-decoration: none;
     color: #0044cc;
     font-weight: bold;
-    margin-top: 100px;
+    margin-top: 10px;
     display: inline-block;
 }
 
@@ -131,8 +131,8 @@ body {
 }
 
 .review-item {
-    width: 30%;
-    background-color: #f9f9f9;
+    width: 100%;
+    background-color: #ffffff;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
